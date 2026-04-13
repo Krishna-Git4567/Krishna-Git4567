@@ -1,6 +1,6 @@
 Hi, I'm Krishna 🌀
 
-I'm a 20-year-old student at IIT Jodhpur, currently pursuing a degree in Data Science.
+I'm a 20-year-old student at IIT Jodhpur, currently pursuing a degree in Data Science & AI ML .
 I have a strong interest in Artificial Intelligence, Machine Learning, and Data Analysis.
 So far, I’ve learned Python and Prompt Engineering, and I’m continuously expanding my skills in AI and data-driven technologies.
 
